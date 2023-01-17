@@ -9,3 +9,4 @@
         let wordlength = word.length;
 
         letterCount.innerHTML = word.length;
+		}
